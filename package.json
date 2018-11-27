@@ -1,0 +1,7 @@
+{
+  "name": "vote-on-ethereum",
+  "version": "1.0.0",
+  "devDependencies": {
+    "truffle-assertions": "^0.6.3"
+  }
+}
